@@ -2,4 +2,3 @@ Flask
 gunicorn
 pymysql
 sqlalchemy
-os
